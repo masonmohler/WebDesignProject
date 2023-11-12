@@ -87,6 +87,10 @@ nav a:hover {
   border: 5px solid #bca37f;
 }
 
+.main-content figcaption {
+  text-align: center;
+}
+
 .main-content h2 {
   text-align: center;
   text-transform: uppercase;
